@@ -12,7 +12,7 @@ Playing PLATFORMER is quite simple and follows a lot of the same concepts as the
 - Intuitive controls that follow the industry standard
 
 ## Controls
-PLATFORMER follows a simple and intuitive control schema. The arrow cluster &#2190; &#2191; &#2192; &#2193; and 
+PLATFORMER follows a simple and intuitive control schema. The arrow cluster and WASD are the primary controls.
 
 ## License
 
