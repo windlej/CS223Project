@@ -12,7 +12,7 @@ Playing PLATFORMER is quite simple and follows a lot of the same concepts as the
 - Intuitive controls that follow the industry standard
 
 ## Assests
-All asessets used in this project open source and have a GPL 3.0 license.
+All asessets used in this project open source and listed below.
 - [OpenGameArt.org](https://opengameart.org/)
 
 ## Dependecies
