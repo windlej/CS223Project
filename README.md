@@ -17,6 +17,7 @@ All asessets used in this project open source and have a GPL 3.0 license.
 
 ## Dependecies
 To run this game you will need to have Python 3.7+ and the module "arcade" which can be installed using the command below.
+
 `python -m pip install arcade`
 
 ## Controls:
