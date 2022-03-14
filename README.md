@@ -16,9 +16,16 @@ All asessets used in this project open source and listed below.
 - [OpenGameArt.org](https://opengameart.org/)
 
 ## Dependecies
-To run this game you will need to have Python 3.7+ and the module "arcade" which can be installed using the command below.
+Once you have downloaded the zip file take note of what directory its in. Then To run the following command below from the command prompt while being in the directory. For example you will start in C:\Users\*insert username*\ adn you will want to "cd"(change directory) into games directory. So run the two commands below in that order.
 
-`python -m pip install arcade`
+`cd PLATFORMER`
+
+`pip install -e .`
+
+## Starting the game:
+Starting the game is quite simple. In the command prompt make sure you are in the games directory then run the following command.
+
+`python -m platformer`
 
 ## Controls:
 PLATFORMER follows a simple and intuitive control schema. The arrow cluster and WASD are the primary controls.
