@@ -2,19 +2,22 @@
 
 This final project is for demonstrating my proffeicent skills in the fundamentals of Python. I have decided to design a simple typing game that helps me understand GUI much better as im already proficient in CLI.
 
+## Game Explanation
+The game is called "Windle Type" which is a typing game where you test yours skills and see if you can improve your typing speed. From a collection of over 45 AI generated sentences to help you get comfortable with wierd sentnce structure you will hopefully improve at typing the more you play this game. The metrics include:
+- Characters per second
+- Characters per minute
+- Words per second
+- Words per minute
+
 ## Key Concepts:
 Playing Windle_Type is quite simple and follow the simpl prinicples of most typing games. The key concepts of this game are:
 - Clean design
 - Simple but engaging objectives
 
-## Assests:
-- [Restart Icon](https://iconsplace.com/white-icons/restart-icon-18/)
-- [Background Image](https://vsthemes.org/uploads/posts/2020-04/1586853771_daniel-leone-v7datklzzaw-unsplash-modded.jpg)
-
 ## Dependecies
-The only module that you may need to run this game is the "pygame" module whihc can be installed using pip.
+The only module that you may need to run this game is the "tkinter" module which can be installed using pip.
 
-`pip install pygame`
+`pip install tkinter`
 
 ## Starting the game:
 Starting the game is quite simple. Navigate to the games direcotry and run "main.py" using python.
