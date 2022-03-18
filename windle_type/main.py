@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+#Jeremiah Windle CS223
+#Final Project
+
 import tkinter as tk
 import time
 import threading
